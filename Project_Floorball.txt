@@ -1,0 +1,10 @@
+Jag ska skapa ett program som jag och mina innebandykamrater kan använda när vi spelar innebandy.
+Jag vill att följande saker skall finnas med i mitt program:
+* Träningschema
+* Närvarosanmälan
+* Chat !
+* Spelarstatistik (vinster, mål, närvaro)
+* Kasta klubborna (lagindelning)
+* Algoritm till lagindelning baserad på spelastatistik
+* Måljakten (Gissa hur många mål man gör)
+* Algoritm till måljakten (poäng baserat på hur nära sitt mål man är)

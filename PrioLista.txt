@@ -1,0 +1,4 @@
+1: Skapa ett användargränssnitt
+2: Låta användaren skapa träningspass
+3: Spara träningspassen
+4: Hämta information från de sparade träningspassen
